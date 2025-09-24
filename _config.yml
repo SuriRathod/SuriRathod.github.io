@@ -122,10 +122,10 @@ analytics:
 author:
   name             : "Surendrapal Singh Rathod"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "SAP Consultant | Technology Leader | Global Professional"
+  bio              : "SAP Consultant, Technology Leader, and Global Professional with a passion for innovation and enterprise solutions."
   location         : "New York, USA"
   email            :
-  masthead_title   : "Surendrapal Singh Rathod"
+  masthead_title   : "Technology Leader & SAP Consultant"
   timezone         : America/New_York
   links:
     - label: "Email"
