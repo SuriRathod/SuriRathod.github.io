@@ -14,8 +14,6 @@
 remote_theme             : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
-plugins:
-  - jekyll-remote-theme
 
 # Site Settings
 locale                   : "en-US"
@@ -23,7 +21,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Surendrapal Singh Rathod"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "Surendrapal Singh Rathod"
 description              : "SAP Consultant | Technology Leader | Global Professional"
 url                      :  "https://surirathod.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -122,11 +120,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Surendrapal Singh Rathod"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "SAP Consultant | Technology Leader | Global Professional"
+  location         : "New York, USA"
   email            :
+  masthead_title   : "Surendrapal Singh Rathod"
+  timezone         : America/New_York
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -269,6 +269,7 @@ pagination:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
