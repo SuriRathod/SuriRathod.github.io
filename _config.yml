@@ -107,12 +107,6 @@ social:
           icon: "fab fa-linkedin"
           url: "https://linkedin.com/in/surendra-rathod"
 
-#Added a header to include page sections
-main:
-  - title: "Home"
-    url: /
-  - title: "Global Recognition"
-    url: /global-recognition/
 
 # Analytics
 analytics:
